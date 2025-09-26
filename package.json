@@ -1,0 +1,27 @@
+{
+  "name": "comp229-2025-003",
+  "version": "1.0.0",
+  "description": "comp229 class examples ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colette6/Comp229-2025-003.git"
+  },
+  "keywords": [
+    "COMP229",
+    "MERN",
+    "Express"
+  ],
+  "author": "Colette St. Ville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colette6/Comp229-2025-003/issues"
+  },
+  "homepage": "https://github.com/colette6/Comp229-2025-003#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
